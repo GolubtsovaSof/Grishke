@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const this_data = new Date("July 8, 2019 00:00:00");
+    const this_data = new Date("July 8, 2020 00:00:00");
     console.log(this_data)
     
     const daysVal = document.querySelectorAll('.time-count__days .time-count__val');
